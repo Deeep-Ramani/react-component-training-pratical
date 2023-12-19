@@ -1,6 +1,5 @@
 .header {
   background-color: #ffffff;
-  /* height: 80rem; */
   overflow: hidden;
   position: relative;
   width: 100%;
@@ -35,7 +34,6 @@
     display: flex;
     flex-shrink: 0;
     margin-right: 103.4rem;
-    /* overflow: hidden; */
     position: relative;
     width: calc(100% - 103.4rem);
     color: #000000;
@@ -49,11 +47,9 @@
       font-weight: 700;
       letter-spacing: 0.1rem;
       line-height: 1.1333333333;
-      /* margin-bottom: 3.2rem; */
       margin: 0px;
       display: flex;
       max-width: 101.1rem;
-      /* align-items: flex-start; */
       flex-direction: column-reverse;
       text-align: left;
       margin-top: -50px;
@@ -66,7 +62,6 @@
       font-weight: 600;
       line-height: 1.2;
       display: flex;
-      /* margin-bottom: 2.9rem; */
       margin: 0px;
       white-space: nowrap;
     }
@@ -79,6 +74,5 @@
       font-weight: 700;
       line-height: 1.3333333333;
       max-width: 35.4rem;
-      /* display: flex; */
     }
 
